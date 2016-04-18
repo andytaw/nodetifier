@@ -1,0 +1,12 @@
+{
+	"listener":{
+		"port": 23023
+	},
+	"tcpSender":{
+		"targetHost": "127.0.0.1",
+		"targetPort": 23024
+	},
+	"webSockets":{
+		"port": 23025
+	}
+}
